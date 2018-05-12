@@ -1,0 +1,36 @@
+_repo: Tin-Types-Taken-in-the-Streets-of-New-YorkPhases-of-Metropolitan-Life_22731
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Beard, Harry
+    gutenberg_agent_id: '25511'
+    url: http://www.gutenberg.org/2009/agents/25511
+covers:
+- cover_type: archival
+  image_path: 22731-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Quigg, Lemuel Ely
+    birthdate: 1863
+    deathdate: 1919
+    gutenberg_agent_id: '25512'
+    url: http://www.gutenberg.org/2009/agents/25512
+description: ''
+gutenberg_bookshelf: United States
+gutenberg_issued: '2007-09-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22731'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New York (N.Y.) -- Social life and customs -- Fiction'
+- !lcc 'PS'
+title: 'Tin-Types Taken in the Streets of New York
+
+  A Series of Stories and Sketches Portraying Many Singular
+
+  Phases of Metropolitan Life'
+url: http://www.gutenberg.org/ebooks/22731
